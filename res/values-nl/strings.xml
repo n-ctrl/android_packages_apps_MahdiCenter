@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+<<<<<<< HEAD
  * Copyright (C) 2013 Mahdi-ROM
+=======
+ * Copyright (C) 2014 Mahdi-ROM
+>>>>>>> 5b935dacb8b6794756823d3fec09f75384d0d403
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -68,6 +72,7 @@
     <string name="short_cut_download_gapps_title">Gapps</string>
     <string name="short_cut_download_gapps_summary">Download Slim Gapps paketten</string>
 
+<<<<<<< HEAD
     <!-- URL's -->
     <string name="download_url">http://files.mahdi-rom.com/</string>
     <string name="changelog_url">http://files.mahdi-rom.com/ota/changelogsimple.txt</string>
@@ -80,6 +85,8 @@
     <string name="xml_url_kitkat">http://files.mahdi-rom.com/ota/ota_kitkat.xml</string>
     <string name="notification_message">ROM update beschikbaar</string>
 
+=======
+>>>>>>> 5b935dacb8b6794756823d3fec09f75384d0d403
     <!-- About -->
     <string name="googleplus_title">Google+</string>
     <string name="googleplus_summary">Bezoek de Google+ gemeenschap</string>
